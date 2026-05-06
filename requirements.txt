@@ -45,4 +45,4 @@ bqplot
 
 # tutorials specific reqs
 # PROCESS
-process @ git+https://github.com/ukaea/process@v3.3.0
+git+https://github.com/ukaea/process@v3.3.0
