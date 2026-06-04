@@ -6,11 +6,10 @@
       "jupyterlab-kernel-spy",
       "jupyterlab-tour"
     ],
-    "litePluginSettings": {
-      "@jupyterlite/pyodide-kernel-extension:kernel": {
-        "pyodideUrl": "./pypi/process-3.3.1.whl",
-        "disablePyPIFallback": true
-      }
+    "PipliteAddon": {
+      "piplite_urls": [
+        "pypi/process-3.3.1.dev10+g89a0b7201.d20260604-py3-none-any.whl"
+      ]
     }
   }
 }
