@@ -1,0 +1,28 @@
+{
+  "process": {
+    "releases": {
+      "3.3.1.dev10+g89a0b7201.d20260604": [
+        {
+          "comment_text": "",
+          "digests": {
+            "md5": "e6d8b8f9ae9a76e193c6c0463a17fd1c",
+            "sha256": "14d4ba939ac153e92247aebfe65de8a5d04024d5ca0df41028a076c26d30616a"
+          },
+          "downloads": -1,
+          "filename": "process-3.3.1.dev10+g89a0b7201.d20260604-py3-none-any.whl",
+          "has_sig": false,
+          "md5_digest": "e6d8b8f9ae9a76e193c6c0463a17fd1c",
+          "packagetype": "bdist_wheel",
+          "python_version": "py3",
+          "requires_python": ">=3.10",
+          "size": 1018102,
+          "upload_time": "2026-06-04T09:29:24.469103Z",
+          "upload_time_iso_8601": "2026-06-04T09:29:24.469103Z",
+          "url": "./process-3.3.1.dev10+g89a0b7201.d20260604-py3-none-any.whl",
+          "yanked": false,
+          "yanked_reason": null
+        }
+      ]
+    }
+  }
+}
