@@ -116,7 +116,10 @@
           "name": "@jupyter-widgets/jupyterlab-manager",
           "library": {
             "type": "var",
-            "name": ["_JUPYTERLAB", "@jupyter-widgets/jupyterlab-manager"]
+            "name": [
+              "_JUPYTERLAB",
+              "@jupyter-widgets/jupyterlab-manager"
+            ]
           },
           "filename": "remoteEntry.[contenthash].js",
           "exposes": {
